@@ -95,7 +95,15 @@
 "Nvidia shares fall 8% as Huang comeback rally cools",
 "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
 "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-"A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it."
+"A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+"Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+"AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+"Does the Nvidia-led rip mark the market bottom? Maybe not",
+"Nvidia shares fall 7% as Huang comeback rally cools",
+"We're adding to our position in a tech giant that is too cheap to ignore",
+"The AI debt market isn’t convinced the worst is over for investors",
+"‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+"Canadian dollar rebounds from 19-month low as U.S. dollar retreats"
 ],
 "last_push": {
 "GOLD|0": "2026-11-24T12:54:22.942211+02:00",
@@ -107,5 +115,13 @@
 "2026-11-24-7",
 "2026-11-24-18"
 ],
-"digest": []
+"digest": [
+{
+"t": "2026-11-24T19:52:46.155165+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "Nvidia shares fall 7% as Huang comeback rally cools",
+"pushed": false
+}
+]
 }
