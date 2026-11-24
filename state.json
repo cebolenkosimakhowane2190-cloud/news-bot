@@ -88,7 +88,14 @@
 "The number of 401(k) millionaires drops as the stock market swings",
 "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
 "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
-"Dollar slips as Nvidia-fueled AI rally fades"
+"Dollar slips as Nvidia-fueled AI rally fades",
+"Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+"Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+"Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+"Nvidia shares fall 8% as Huang comeback rally cools",
+"Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
+"Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+"A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it."
 ],
 "last_push": {
 "GOLD|0": "2026-11-24T12:54:22.942211+02:00",
@@ -97,148 +104,8 @@
 "USDJPY|1": "2026-11-24T12:54:22.942211+02:00"
 },
 "sent_summaries": [
-"2026-11-24-7"
+"2026-11-24-7",
+"2026-11-24-18"
 ],
-"digest": [
-{
-"t": "2026-11-24T11:52:36.365065+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "Nvidia shares fall 4% in premarket after Huang comeback rally",
-"pushed": false
-},
-{
-"t": "2026-11-24T11:52:36.493769+02:00",
-"a": "GOLD",
-"net": -1,
-"h": "Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
-"pushed": true
-},
-{
-"t": "2026-11-24T11:52:36.493769+02:00",
-"a": "USDJPY",
-"net": 1,
-"h": "Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
-"pushed": false
-},
-{
-"t": "2026-11-24T11:52:36.494617+02:00",
-"a": "GOLD",
-"net": 2,
-"h": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
-"pushed": true
-},
-{
-"t": "2026-11-24T11:52:36.494617+02:00",
-"a": "USDJPY",
-"net": -2,
-"h": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
-"pushed": true
-},
-{
-"t": "2026-11-24T11:52:36.494617+02:00",
-"a": "NASDAQ",
-"net": 0,
-"h": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
-"pushed": false
-},
-{
-"t": "2026-11-24T12:54:22.940861+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Dollar grips 20-month peak as Nvidia’s AI revival rekindles Fed rate wagers",
-"pushed": false
-},
-{
-"t": "2026-11-24T12:54:22.941960+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "Prolonged AI rout threatens USD safe-haven status, strategist warns",
-"pushed": true
-},
-{
-"t": "2026-11-24T12:54:22.941960+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "Prolonged AI rout threatens USD safe-haven status, strategist warns",
-"pushed": false
-},
-{
-"t": "2026-11-24T12:54:22.941960+02:00",
-"a": "NASDAQ",
-"net": -1,
-"h": "Prolonged AI rout threatens USD safe-haven status, strategist warns",
-"pushed": false
-},
-{
-"t": "2026-11-24T12:54:22.942211+02:00",
-"a": "GOLD",
-"net": -2,
-"h": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
-"pushed": true
-},
-{
-"t": "2026-11-24T12:54:22.942211+02:00",
-"a": "USDJPY",
-"net": 2,
-"h": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
-"pushed": true
-},
-{
-"t": "2026-11-24T12:54:22.942211+02:00",
-"a": "NASDAQ",
-"net": -1,
-"h": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
-"pushed": false
-},
-{
-"t": "2026-11-24T13:56:10.874075+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
-"pushed": false
-},
-{
-"t": "2026-11-24T15:13:18.870269+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
-"pushed": false
-},
-{
-"t": "2026-11-24T16:32:20.926109+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Commercial real estate activity falls 14% in October, as interest rates rise",
-"pushed": false
-},
-{
-"t": "2026-11-24T17:42:20.845337+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "Nvidia shares fall over 5% after Huang comeback rally",
-"pushed": false
-},
-{
-"t": "2026-11-24T17:42:21.065726+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "Dollar slips as Nvidia-fueled AI rally fades",
-"pushed": true
-},
-{
-"t": "2026-11-24T17:42:21.065726+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "Dollar slips as Nvidia-fueled AI rally fades",
-"pushed": false
-},
-{
-"t": "2026-11-24T17:42:21.065726+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "Dollar slips as Nvidia-fueled AI rally fades",
-"pushed": false
-}
-]
+"digest": []
 }
