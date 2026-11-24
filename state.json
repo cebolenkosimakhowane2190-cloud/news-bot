@@ -39,11 +39,63 @@
 "Brazilian real stays weak despite global risk rebound, fiscal worries weigh",
 "USD/JPY to return to the 140s in 2027: Deutsche Bank",
 "Deutsche Bank raises dollar forecasts on AI boom strength",
-"U.S. yields extend rally as tech wipeout collides with holiday-thinned week"
+"U.S. yields extend rally as tech wipeout collides with holiday-thinned week",
+"Nvidia shares fall 4% in premarket after Huang comeback rally",
+"Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
+"The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+"Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
+"Global yields fall as safe-haven bid meets looming U.S. PCE test"
 ],
-"last_push": {},
+"last_push": {
+"GOLD|0": "2026-11-24T11:52:36.493769+02:00",
+"GOLD|1": "2026-11-24T11:52:36.494617+02:00",
+"USDJPY|0": "2026-11-24T11:52:36.494617+02:00"
+},
 "sent_summaries": [
 "2026-11-24-7"
 ],
-"digest": []
+"digest": [
+{
+"t": "2026-11-24T11:52:36.365065+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "Nvidia shares fall 4% in premarket after Huang comeback rally",
+"pushed": false
+},
+{
+"t": "2026-11-24T11:52:36.493769+02:00",
+"a": "GOLD",
+"net": -1,
+"h": "Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
+"pushed": true
+},
+{
+"t": "2026-11-24T11:52:36.493769+02:00",
+"a": "USDJPY",
+"net": 1,
+"h": "Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
+"pushed": false
+},
+{
+"t": "2026-11-24T11:52:36.494617+02:00",
+"a": "GOLD",
+"net": 2,
+"h": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
+"pushed": true
+},
+{
+"t": "2026-11-24T11:52:36.494617+02:00",
+"a": "USDJPY",
+"net": -2,
+"h": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
+"pushed": true
+},
+{
+"t": "2026-11-24T11:52:36.494617+02:00",
+"a": "NASDAQ",
+"net": 0,
+"h": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
+"pushed": false
+}
+]
 }
