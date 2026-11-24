@@ -44,12 +44,28 @@
 "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
 "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
 "Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
-"Global yields fall as safe-haven bid meets looming U.S. PCE test"
+"Global yields fall as safe-haven bid meets looming U.S. PCE test",
+"Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+"Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+"Amazon to acquire AI startup Decart's chip software, hire founders",
+"ESPN, NFL to show Super Bowl 61 in Imax theaters",
+"DNI Jay Clayton tapped as acting national cyber director",
+"I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+"Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
+"Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
+"The bull and bear surprises that could ambush investors next year, according to Bank of America",
+"Dollar grips 20-month peak as Nvidia’s AI revival rekindles Fed rate wagers",
+"Citi sees euro undervalued, eyes 1.11+ for renewed dollar bets",
+"European gas bucks energy sell-off as lingering cold snap offsets crude slump",
+"Prolonged AI rout threatens USD safe-haven status, strategist warns",
+"UBS sees USD/JPY at 158 through 2027 on rate differentials",
+"Dollar gains as renewed AI euphoria fuels Fed hike bets"
 ],
 "last_push": {
-"GOLD|0": "2026-11-24T11:52:36.493769+02:00",
-"GOLD|1": "2026-11-24T11:52:36.494617+02:00",
-"USDJPY|0": "2026-11-24T11:52:36.494617+02:00"
+"GOLD|0": "2026-11-24T12:54:22.942211+02:00",
+"GOLD|1": "2026-11-24T12:54:22.941960+02:00",
+"USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
+"USDJPY|1": "2026-11-24T12:54:22.942211+02:00"
 },
 "sent_summaries": [
 "2026-11-24-7"
@@ -95,6 +111,55 @@
 "a": "NASDAQ",
 "net": 0,
 "h": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
+"pushed": false
+},
+{
+"t": "2026-11-24T12:54:22.940861+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Dollar grips 20-month peak as Nvidia’s AI revival rekindles Fed rate wagers",
+"pushed": false
+},
+{
+"t": "2026-11-24T12:54:22.941960+02:00",
+"a": "GOLD",
+"net": 1,
+"h": "Prolonged AI rout threatens USD safe-haven status, strategist warns",
+"pushed": true
+},
+{
+"t": "2026-11-24T12:54:22.941960+02:00",
+"a": "USDJPY",
+"net": -1,
+"h": "Prolonged AI rout threatens USD safe-haven status, strategist warns",
+"pushed": false
+},
+{
+"t": "2026-11-24T12:54:22.941960+02:00",
+"a": "NASDAQ",
+"net": -1,
+"h": "Prolonged AI rout threatens USD safe-haven status, strategist warns",
+"pushed": false
+},
+{
+"t": "2026-11-24T12:54:22.942211+02:00",
+"a": "GOLD",
+"net": -2,
+"h": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
+"pushed": true
+},
+{
+"t": "2026-11-24T12:54:22.942211+02:00",
+"a": "USDJPY",
+"net": 2,
+"h": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
+"pushed": true
+},
+{
+"t": "2026-11-24T12:54:22.942211+02:00",
+"a": "NASDAQ",
+"net": -1,
+"h": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
 "pushed": false
 }
 ]
