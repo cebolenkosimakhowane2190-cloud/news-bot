@@ -78,11 +78,21 @@
 "Jim Cramer's top 10 things to watch in the stock market Tuesday",
 "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
 "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-"I’ve paid for long-term-care insurance for 20 years. Is it still worth it?"
+"I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
+"Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+"Nvidia brought Jensen Huang back. But the investigations aren’t over",
+"Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
+"Nvidia shares fall over 5% after Huang comeback rally",
+"Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
+"Anthropic’s stock just broke below its IPO price for the first time",
+"The number of 401(k) millionaires drops as the stock market swings",
+"Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+"What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
+"Dollar slips as Nvidia-fueled AI rally fades"
 ],
 "last_push": {
 "GOLD|0": "2026-11-24T12:54:22.942211+02:00",
-"GOLD|1": "2026-11-24T12:54:22.941960+02:00",
+"GOLD|1": "2026-11-24T17:42:21.065726+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
 "USDJPY|1": "2026-11-24T12:54:22.942211+02:00"
 },
@@ -200,6 +210,34 @@
 "a": "GOLD",
 "net": 0,
 "h": "Commercial real estate activity falls 14% in October, as interest rates rise",
+"pushed": false
+},
+{
+"t": "2026-11-24T17:42:20.845337+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "Nvidia shares fall over 5% after Huang comeback rally",
+"pushed": false
+},
+{
+"t": "2026-11-24T17:42:21.065726+02:00",
+"a": "GOLD",
+"net": 1,
+"h": "Dollar slips as Nvidia-fueled AI rally fades",
+"pushed": true
+},
+{
+"t": "2026-11-24T17:42:21.065726+02:00",
+"a": "USDJPY",
+"net": -1,
+"h": "Dollar slips as Nvidia-fueled AI rally fades",
+"pushed": false
+},
+{
+"t": "2026-11-24T17:42:21.065726+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "Dollar slips as Nvidia-fueled AI rally fades",
 "pushed": false
 }
 ]
