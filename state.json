@@ -72,7 +72,13 @@
 "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
 "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
 "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
-"Dollar takes a breather from AI-driven rally"
+"Dollar takes a breather from AI-driven rally",
+"Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+"Commercial real estate activity falls 14% in October, as interest rates rise",
+"Jim Cramer's top 10 things to watch in the stock market Tuesday",
+"My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+"12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+"I’ve paid for long-term-care insurance for 20 years. Is it still worth it?"
 ],
 "last_push": {
 "GOLD|0": "2026-11-24T12:54:22.942211+02:00",
@@ -187,6 +193,13 @@
 "a": "GOLD",
 "net": 0,
 "h": "Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
+"pushed": false
+},
+{
+"t": "2026-11-24T16:32:20.926109+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Commercial real estate activity falls 14% in October, as interest rates rise",
 "pushed": false
 }
 ]
