@@ -121,7 +121,15 @@
 "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
 "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
 "Many people overlook this crucial piece of retirement planning — and it isn’t money",
-"Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before."
+"Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+"Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+"Saudi national charged in OpenAI bugging to be released on $1 million bond",
+"Anthropic closes below $83 IPO price, but analysts are still largely positive",
+"How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+"How much more are richest Americans spending on the holidays compared to everyone else?",
+"The stock market is hardly cheap, even taking recent declines into account",
+"Dell’s stock rises as the AI boom helps sales more than double",
+"Dollar retreats from near 20-month peak, set for worst day in over two weeks"
 ],
 "last_push": {
 "GOLD|0": "2026-11-24T12:54:22.942211+02:00",
@@ -139,6 +147,20 @@
 "a": "NASDAQ",
 "net": 1,
 "h": "Nvidia shares fall 7% as Huang comeback rally cools",
+"pushed": false
+},
+{
+"t": "2026-11-25T00:04:27.126384+02:00",
+"a": "GOLD",
+"net": 1,
+"h": "Dollar retreats from near 20-month peak, set for worst day in over two weeks",
+"pushed": false
+},
+{
+"t": "2026-11-25T00:04:27.126384+02:00",
+"a": "USDJPY",
+"net": -1,
+"h": "Dollar retreats from near 20-month peak, set for worst day in over two weeks",
 "pushed": false
 }
 ]
