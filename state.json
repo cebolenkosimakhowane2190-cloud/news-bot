@@ -61,7 +61,18 @@
 "UBS sees USD/JPY at 158 through 2027 on rate differentials",
 "Dollar gains as renewed AI euphoria fuels Fed hike bets",
 "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
-"A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
+"A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+"Best Buy reports comparable sales growth of 6.1%, highest in five years",
+"Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
+"Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+"Some U.S. food banks see demand top pandemic levels",
+"What Jensen Huang’s return means for Nvidia’s Colette Kress",
+"U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
+"Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
+"Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
+"Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+"This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
+"Dollar takes a breather from AI-driven rally"
 ],
 "last_push": {
 "GOLD|0": "2026-11-24T12:54:22.942211+02:00",
@@ -169,6 +180,13 @@
 "a": "NASDAQ",
 "net": 1,
 "h": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
+"pushed": false
+},
+{
+"t": "2026-11-24T15:13:18.870269+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
 "pushed": false
 }
 ]
