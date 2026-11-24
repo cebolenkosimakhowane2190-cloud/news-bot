@@ -59,7 +59,9 @@
 "European gas bucks energy sell-off as lingering cold snap offsets crude slump",
 "Prolonged AI rout threatens USD safe-haven status, strategist warns",
 "UBS sees USD/JPY at 158 through 2027 on rate differentials",
-"Dollar gains as renewed AI euphoria fuels Fed hike bets"
+"Dollar gains as renewed AI euphoria fuels Fed hike bets",
+"The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
+"A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
 ],
 "last_push": {
 "GOLD|0": "2026-11-24T12:54:22.942211+02:00",
@@ -160,6 +162,13 @@
 "a": "NASDAQ",
 "net": -1,
 "h": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
+"pushed": false
+},
+{
+"t": "2026-11-24T13:56:10.874075+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
 "pushed": false
 }
 ]
