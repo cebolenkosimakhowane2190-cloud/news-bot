@@ -146,7 +146,14 @@
 "Treasury yields fall as investors await key inflation signal",
 "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
 "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
-"Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed"
+"Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed",
+"Budget carrier Norse Atlantic falls 81% after warning its finances are ‘critical’ amid soaring fuel costs",
+"Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+"This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+"Kylie Jenner again relists concrete mansion in L.A. for $38 million",
+"I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+"NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
+"Sterling today: Pound falls as risk unwind sends funds back to dollar"
 ],
 "last_push": {
 "GOLD|0": "2026-11-25T11:46:50.153344+02:00",
@@ -207,6 +214,13 @@
 "a": "USDJPY",
 "net": 1,
 "h": "Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed",
+"pushed": false
+},
+{
+"t": "2026-11-25T12:44:21.947146+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
 "pushed": false
 }
 ]
