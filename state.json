@@ -188,7 +188,15 @@
 "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
 "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
 "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-"Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in"
+"Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
+"Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+"Prediction markets push OpenAI IPO expectations later into 2027",
+"Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+"HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
+"How soon Trump’s new tariffs could hit the economy — and your wallet",
+"The latest stock-market drop could lower your tax bill over your lifetime",
+"Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
+"‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers"
 ],
 "last_push": {
 "GOLD|0": "2026-11-25T16:22:37.152392+02:00",
@@ -203,5 +211,20 @@
 "2026-11-25-7",
 "2026-11-25-18"
 ],
-"digest": []
+"digest": [
+{
+"t": "2026-11-25T19:36:18.744808+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+"pushed": false
+},
+{
+"t": "2026-11-25T19:36:18.757435+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+"pushed": false
+}
+]
 }
