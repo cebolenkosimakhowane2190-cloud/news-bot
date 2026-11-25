@@ -214,7 +214,11 @@
 "Macy's postpones Thanksgiving Day Parade due to severe weather",
 "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
 "How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
-"Dollar reverses course after earlier gains driven by hot U.S. data, AI rout"
+"Dollar reverses course after earlier gains driven by hot U.S. data, AI rout",
+"Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+"Oracle, CoreWeave and other tech stocks bounce back after selloff",
+"Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+"Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’"
 ],
 "last_push": {
 "GOLD|0": "2026-11-25T16:22:37.152392+02:00",
@@ -263,6 +267,20 @@
 "a": "NASDAQ",
 "net": -1,
 "h": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+"pushed": false
+},
+{
+"t": "2026-11-26T00:38:35.610338+02:00",
+"a": "NASDAQ",
+"net": -1,
+"h": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+"pushed": false
+},
+{
+"t": "2026-11-26T00:38:35.610492+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
 "pushed": false
 }
 ]
