@@ -156,11 +156,20 @@
 "Sterling today: Pound falls as risk unwind sends funds back to dollar",
 "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
 "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
-"The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason why, says JPMorgan"
+"The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason why, says JPMorgan",
+"Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+"Secondhand shopping is going mainstream this holiday season as consumers seek value",
+"Here’s how to find value in cybersecurity stocks after a strong year",
+"This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+"Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
+"The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
+"Dollar firms ahead of U.S. inflation data",
+"Swiss franc safe-haven demand and USD/CHF technical outlook",
+"EUR/USD may rally to 1.12 before falling to 1.05, BCA says"
 ],
 "last_push": {
-"GOLD|0": "2026-11-25T11:46:50.153344+02:00",
-"GOLD|1": "2026-11-25T10:23:15.116813+02:00",
+"GOLD|0": "2026-11-25T14:53:11.105937+02:00",
+"GOLD|1": "2026-11-25T14:53:11.107498+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
 "USDJPY|1": "2026-11-24T12:54:22.942211+02:00"
 },
@@ -224,6 +233,48 @@
 "a": "GOLD",
 "net": 0,
 "h": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+"pushed": false
+},
+{
+"t": "2026-11-25T14:53:11.049812+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+"pushed": false
+},
+{
+"t": "2026-11-25T14:53:11.105937+02:00",
+"a": "GOLD",
+"net": -1,
+"h": "Dollar firms ahead of U.S. inflation data",
+"pushed": true
+},
+{
+"t": "2026-11-25T14:53:11.105937+02:00",
+"a": "USDJPY",
+"net": 1,
+"h": "Dollar firms ahead of U.S. inflation data",
+"pushed": false
+},
+{
+"t": "2026-11-25T14:53:11.107498+02:00",
+"a": "GOLD",
+"net": 1,
+"h": "Swiss franc safe-haven demand and USD/CHF technical outlook",
+"pushed": true
+},
+{
+"t": "2026-11-25T14:53:11.107498+02:00",
+"a": "USDJPY",
+"net": -1,
+"h": "Swiss franc safe-haven demand and USD/CHF technical outlook",
+"pushed": false
+},
+{
+"t": "2026-11-25T14:53:11.107498+02:00",
+"a": "NASDAQ",
+"net": -1,
+"h": "Swiss franc safe-haven demand and USD/CHF technical outlook",
 "pushed": false
 }
 ]
