@@ -206,7 +206,11 @@
 "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
 "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
 "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
-"Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices"
+"Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+"Vance says he was assured Jensen Huang was not under DOJ investigation",
+"We're buying more of a stock down big from its July highs",
+"Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+"The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates"
 ],
 "last_push": {
 "GOLD|0": "2026-11-25T16:22:37.152392+02:00",
@@ -234,6 +238,27 @@
 "a": "GOLD",
 "net": 0,
 "h": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+"pushed": false
+},
+{
+"t": "2026-11-25T22:33:00.861282+02:00",
+"a": "GOLD",
+"net": -1,
+"h": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+"pushed": false
+},
+{
+"t": "2026-11-25T22:33:00.861282+02:00",
+"a": "USDJPY",
+"net": 1,
+"h": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+"pushed": false
+},
+{
+"t": "2026-11-25T22:33:00.861282+02:00",
+"a": "NASDAQ",
+"net": -1,
+"h": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
 "pushed": false
 }
 ]
