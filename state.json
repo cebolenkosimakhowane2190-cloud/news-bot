@@ -165,13 +165,27 @@
 "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
 "Dollar firms ahead of U.S. inflation data",
 "Swiss franc safe-haven demand and USD/CHF technical outlook",
-"EUR/USD may rally to 1.12 before falling to 1.05, BCA says"
+"EUR/USD may rally to 1.12 before falling to 1.05, BCA says",
+"Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+"U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+"Our top 10 things to watch in the stock market Wednesday",
+"Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+"U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
+"Third-quarter GDP already looked great. Now it looks even better.",
+"Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+"The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
+"The S&P 500 is headed for a 14% gain next year — and downturns like this one are actually part of the reason, says JPMorgan",
+"What the options market says to do with Nvidia’s stock — and the rest of the stock market",
+"Dollar firms after hot core inflation boosts rate hike bets",
+"Sterling today: Pound slips as risk unwind lifts dollar before PCE data",
+"Large FX option expiries for NY cut on Wednesday"
 ],
 "last_push": {
-"GOLD|0": "2026-11-25T14:53:11.105937+02:00",
+"GOLD|0": "2026-11-25T16:22:37.152392+02:00",
 "GOLD|1": "2026-11-25T14:53:11.107498+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
-"USDJPY|1": "2026-11-24T12:54:22.942211+02:00"
+"USDJPY|1": "2026-11-25T16:22:37.152392+02:00",
+"NASDAQ|0": "2026-11-25T16:22:37.152392+02:00"
 },
 "sent_summaries": [
 "2026-11-24-7",
@@ -275,6 +289,48 @@
 "a": "NASDAQ",
 "net": -1,
 "h": "Swiss franc safe-haven demand and USD/CHF technical outlook",
+"pushed": false
+},
+{
+"t": "2026-11-25T16:22:36.965605+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+"pushed": false
+},
+{
+"t": "2026-11-25T16:22:37.004222+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+"pushed": false
+},
+{
+"t": "2026-11-25T16:22:37.152392+02:00",
+"a": "GOLD",
+"net": -3,
+"h": "Dollar firms after hot core inflation boosts rate hike bets",
+"pushed": true
+},
+{
+"t": "2026-11-25T16:22:37.152392+02:00",
+"a": "USDJPY",
+"net": 3,
+"h": "Dollar firms after hot core inflation boosts rate hike bets",
+"pushed": true
+},
+{
+"t": "2026-11-25T16:22:37.152392+02:00",
+"a": "NASDAQ",
+"net": -2,
+"h": "Dollar firms after hot core inflation boosts rate hike bets",
+"pushed": true
+},
+{
+"t": "2026-11-25T16:22:37.153249+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Sterling today: Pound slips as risk unwind lifts dollar before PCE data",
 "pushed": false
 }
 ]
