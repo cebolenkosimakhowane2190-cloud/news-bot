@@ -149,29 +149,8 @@
 },
 "sent_summaries": [
 "2026-11-24-7",
-"2026-11-24-18"
+"2026-11-24-18",
+"2026-11-25-7"
 ],
-"digest": [
-{
-"t": "2026-11-24T19:52:46.155165+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "Nvidia shares fall 7% as Huang comeback rally cools",
-"pushed": false
-},
-{
-"t": "2026-11-25T00:04:27.126384+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "Dollar retreats from near 20-month peak, set for worst day in over two weeks",
-"pushed": false
-},
-{
-"t": "2026-11-25T00:04:27.126384+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "Dollar retreats from near 20-month peak, set for worst day in over two weeks",
-"pushed": false
-}
-]
+"digest": []
 }
