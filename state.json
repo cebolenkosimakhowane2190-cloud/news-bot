@@ -141,11 +141,13 @@
 "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
 "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
 "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-"Asia FX weakens as dollar firms on tariff risks; Aussie hits 11-month low"
+"Asia FX weakens as dollar firms on tariff risks; Aussie hits 11-month low",
+"AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+"Treasury yields fall as investors await key inflation signal"
 ],
 "last_push": {
 "GOLD|0": "2026-11-25T08:48:54.409186+02:00",
-"GOLD|1": "2026-11-24T17:42:21.065726+02:00",
+"GOLD|1": "2026-11-25T10:23:15.116813+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
 "USDJPY|1": "2026-11-24T12:54:22.942211+02:00"
 },
@@ -167,6 +169,27 @@
 "a": "USDJPY",
 "net": 1,
 "h": "Asia FX weakens as dollar firms on tariff risks; Aussie hits 11-month low",
+"pushed": false
+},
+{
+"t": "2026-11-25T10:23:15.116813+02:00",
+"a": "GOLD",
+"net": 1,
+"h": "Treasury yields fall as investors await key inflation signal",
+"pushed": true
+},
+{
+"t": "2026-11-25T10:23:15.116813+02:00",
+"a": "USDJPY",
+"net": -1,
+"h": "Treasury yields fall as investors await key inflation signal",
+"pushed": false
+},
+{
+"t": "2026-11-25T10:23:15.116813+02:00",
+"a": "NASDAQ",
+"net": 1,
+"h": "Treasury yields fall as investors await key inflation signal",
 "pushed": false
 }
 ]
