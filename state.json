@@ -183,7 +183,12 @@
 "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
 "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
 "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-"Dell sees sales more than double — but its stock falls anyway"
+"Dell sees sales more than double — but its stock falls anyway",
+"Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+"10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+"There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
+"Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
+"Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in"
 ],
 "last_push": {
 "GOLD|0": "2026-11-25T16:22:37.152392+02:00",
@@ -195,148 +200,8 @@
 "sent_summaries": [
 "2026-11-24-7",
 "2026-11-24-18",
-"2026-11-25-7"
+"2026-11-25-7",
+"2026-11-25-18"
 ],
-"digest": [
-{
-"t": "2026-11-25T08:48:54.409186+02:00",
-"a": "GOLD",
-"net": -1,
-"h": "Asia FX weakens as dollar firms on tariff risks; Aussie hits 11-month low",
-"pushed": true
-},
-{
-"t": "2026-11-25T08:48:54.409186+02:00",
-"a": "USDJPY",
-"net": 1,
-"h": "Asia FX weakens as dollar firms on tariff risks; Aussie hits 11-month low",
-"pushed": false
-},
-{
-"t": "2026-11-25T10:23:15.116813+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "Treasury yields fall as investors await key inflation signal",
-"pushed": true
-},
-{
-"t": "2026-11-25T10:23:15.116813+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "Treasury yields fall as investors await key inflation signal",
-"pushed": false
-},
-{
-"t": "2026-11-25T10:23:15.116813+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "Treasury yields fall as investors await key inflation signal",
-"pushed": false
-},
-{
-"t": "2026-11-25T11:46:50.153344+02:00",
-"a": "GOLD",
-"net": -1,
-"h": "Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed",
-"pushed": true
-},
-{
-"t": "2026-11-25T11:46:50.153344+02:00",
-"a": "USDJPY",
-"net": 1,
-"h": "Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed",
-"pushed": false
-},
-{
-"t": "2026-11-25T12:44:21.947146+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
-"pushed": false
-},
-{
-"t": "2026-11-25T14:53:11.049812+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
-"pushed": false
-},
-{
-"t": "2026-11-25T14:53:11.105937+02:00",
-"a": "GOLD",
-"net": -1,
-"h": "Dollar firms ahead of U.S. inflation data",
-"pushed": true
-},
-{
-"t": "2026-11-25T14:53:11.105937+02:00",
-"a": "USDJPY",
-"net": 1,
-"h": "Dollar firms ahead of U.S. inflation data",
-"pushed": false
-},
-{
-"t": "2026-11-25T14:53:11.107498+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "Swiss franc safe-haven demand and USD/CHF technical outlook",
-"pushed": true
-},
-{
-"t": "2026-11-25T14:53:11.107498+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "Swiss franc safe-haven demand and USD/CHF technical outlook",
-"pushed": false
-},
-{
-"t": "2026-11-25T14:53:11.107498+02:00",
-"a": "NASDAQ",
-"net": -1,
-"h": "Swiss franc safe-haven demand and USD/CHF technical outlook",
-"pushed": false
-},
-{
-"t": "2026-11-25T16:22:36.965605+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-"pushed": false
-},
-{
-"t": "2026-11-25T16:22:37.004222+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-"pushed": false
-},
-{
-"t": "2026-11-25T16:22:37.152392+02:00",
-"a": "GOLD",
-"net": -3,
-"h": "Dollar firms after hot core inflation boosts rate hike bets",
-"pushed": true
-},
-{
-"t": "2026-11-25T16:22:37.152392+02:00",
-"a": "USDJPY",
-"net": 3,
-"h": "Dollar firms after hot core inflation boosts rate hike bets",
-"pushed": true
-},
-{
-"t": "2026-11-25T16:22:37.152392+02:00",
-"a": "NASDAQ",
-"net": -2,
-"h": "Dollar firms after hot core inflation boosts rate hike bets",
-"pushed": true
-},
-{
-"t": "2026-11-25T16:22:37.153249+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Sterling today: Pound slips as risk unwind lifts dollar before PCE data",
-"pushed": false
-}
-]
+"digest": []
 }
