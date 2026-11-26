@@ -49,7 +49,12 @@ HAWK = {G: -1, J: +1, N: -1}
 DOVE = {G: +1, J: -1, N: +1}
 
 FLIP   = r"\b(fade|fades|fading|dim|dims|wane|wanes|pare|pares|fewer|unlikely|delay|delays|rules? out|ruled out|pushes? back|doubts?)\b"
-NOT_US = r"\b(boj|bank of japan|japan|ueda|ecb|boe|bank of england|rba|snb|pboc)\b"
+NOT_US = (r"\b(boj|bank of japan|japan\w*|ueda|ecb|euro ?zone|boe|bank of england|britain|british|rba|snb|pboc|"
+          r"bok|bank of korea|korea\w*|rbi|india\w*|rbnz|new zealand|boc|bank of canada|canad\w*|australia\w*|"
+          r"banxico|mexic\w*|riksbank|norges|sarb|south africa\w*|turk\w*|brazil\w*|china|chinese|taiwan\w*|"
+          r"indonesia\w*|philippine\w*|thai\w*|swiss|swedish|norw\w*|asia fx|emerging markets?|"
+          r"uk|u\.k\.|england|sterling|germany|german|france|french|italy|italian|spain|spanish)\b")
+US_CB  = r"\b(fed|fomc|federal reserve|powell|u\.s\.|us)\b"   # a Fed/US mention keeps the signal
 OTHER_USD = r"(canadian|australian|aussie|kiwi|new zealand|hong kong|singapore|taiwan) dollar|\bloonie\b"
 UNSURE = r"\b(split|divided|debate|debating|undecided|mixed)\b"
 FLIP   = FLIP[:-3] + r"|no rush|no hurry|in no hurry|not (yet )?ready|patient|cautious)\b"
@@ -120,12 +125,16 @@ MACRO_RULES = [
  ("Weak yen",      r"\b(weak|weaker|softer|sliding|falling)\s+yen\b", None, {J: +1}, False, None),
 ]
 
+FOREIGN_SENSITIVE = {"Hot inflation", "Cooling inflation", "Strong jobs data", "Weak jobs data"}
+
 def analyze(headline):
     text = headline.lower()
     flipped = has(FLIP, text)
     totals = {G: 0, J: 0, N: 0}
     why = {G: [], J: [], N: []}
     for theme, topic, mood, effects, can_flip, exclude in MACRO_RULES:
+        if exclude is None and theme in FOREIGN_SENSITIVE:
+            exclude = NOT_US          # other countries' inflation/jobs data don't move US-driven signals
         m = re.search(topic, text)
         if not m:
             continue
@@ -143,7 +152,8 @@ def analyze(headline):
         if mood and not has(mood, near):
             continue
         if exclude and has(exclude, text):
-            continue
+            if not (exclude == NOT_US and has(US_CB, text)):
+                continue
         sign = -1 if (flipped and can_flip) else 1
         if can_flip and has(UNSURE, text):
             sign = 0
