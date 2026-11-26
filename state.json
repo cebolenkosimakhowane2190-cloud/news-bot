@@ -244,7 +244,9 @@
 "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
 "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
 "Norse Atlantic suspends all flights, warns it may file for bankruptcy",
-"Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse"
+"Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+"Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+"Global bond rally eases as sticky PCE locks in December Fed hike"
 ],
 "last_push": {
 "GOLD|0": "2026-11-26T09:52:49.367694+02:00",
@@ -273,6 +275,27 @@
 "a": "USDJPY",
 "net": 1,
 "h": "Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
+"pushed": false
+},
+{
+"t": "2026-11-26T11:08:54.696484+02:00",
+"a": "GOLD",
+"net": 0,
+"h": "Global bond rally eases as sticky PCE locks in December Fed hike",
+"pushed": false
+},
+{
+"t": "2026-11-26T11:08:54.696484+02:00",
+"a": "USDJPY",
+"net": 0,
+"h": "Global bond rally eases as sticky PCE locks in December Fed hike",
+"pushed": false
+},
+{
+"t": "2026-11-26T11:08:54.696484+02:00",
+"a": "NASDAQ",
+"net": 0,
+"h": "Global bond rally eases as sticky PCE locks in December Fed hike",
 "pushed": false
 }
 ]
