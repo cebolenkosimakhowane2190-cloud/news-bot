@@ -228,10 +228,15 @@
 "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
 "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
 "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
-"South Korea's Kospi leads gains as tech rebound lifts Asia markets"
+"South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+"How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+"Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+"SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+"Hedge funds are no longer just for the rich. They’re wooing everyday investors",
+"Asia FX: won muted after BOK hikes rates, dollar steady"
 ],
 "last_push": {
-"GOLD|0": "2026-11-25T16:22:37.152392+02:00",
+"GOLD|0": "2026-11-26T07:11:25.627936+02:00",
 "GOLD|1": "2026-11-25T14:53:11.107498+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
 "USDJPY|1": "2026-11-25T16:22:37.152392+02:00",
@@ -241,57 +246,8 @@
 "2026-11-24-7",
 "2026-11-24-18",
 "2026-11-25-7",
-"2026-11-25-18"
+"2026-11-25-18",
+"2026-11-26-7"
 ],
-"digest": [
-{
-"t": "2026-11-25T19:36:18.744808+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-"pushed": false
-},
-{
-"t": "2026-11-25T19:36:18.757435+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-"pushed": false
-},
-{
-"t": "2026-11-25T22:33:00.861282+02:00",
-"a": "GOLD",
-"net": -1,
-"h": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-"pushed": false
-},
-{
-"t": "2026-11-25T22:33:00.861282+02:00",
-"a": "USDJPY",
-"net": 1,
-"h": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-"pushed": false
-},
-{
-"t": "2026-11-25T22:33:00.861282+02:00",
-"a": "NASDAQ",
-"net": -1,
-"h": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-"pushed": false
-},
-{
-"t": "2026-11-26T00:38:35.610338+02:00",
-"a": "NASDAQ",
-"net": -1,
-"h": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-"pushed": false
-},
-{
-"t": "2026-11-26T00:38:35.610492+02:00",
-"a": "NASDAQ",
-"net": 1,
-"h": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-"pushed": false
-}
-]
+"digest": []
 }
