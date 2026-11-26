@@ -262,7 +262,10 @@
 "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
 "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
 "This retired professor has reinvented himself — as a Taylor Swift scholar",
-"Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility"
+"Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
+"We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+"Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+"Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say"
 ],
 "last_push": {
 "GOLD|0": "2026-11-26T09:52:49.367694+02:00",
@@ -276,43 +279,8 @@
 "2026-11-24-18",
 "2026-11-25-7",
 "2026-11-25-18",
-"2026-11-26-7"
+"2026-11-26-7",
+"2026-11-26-18"
 ],
-"digest": [
-{
-"t": "2026-11-26T09:52:49.367694+02:00",
-"a": "GOLD",
-"net": -1,
-"h": "Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
-"pushed": true
-},
-{
-"t": "2026-11-26T09:52:49.367694+02:00",
-"a": "USDJPY",
-"net": 1,
-"h": "Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
-"pushed": false
-},
-{
-"t": "2026-11-26T11:08:54.696484+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Global bond rally eases as sticky PCE locks in December Fed hike",
-"pushed": false
-},
-{
-"t": "2026-11-26T11:08:54.696484+02:00",
-"a": "USDJPY",
-"net": 0,
-"h": "Global bond rally eases as sticky PCE locks in December Fed hike",
-"pushed": false
-},
-{
-"t": "2026-11-26T11:08:54.696484+02:00",
-"a": "NASDAQ",
-"net": 0,
-"h": "Global bond rally eases as sticky PCE locks in December Fed hike",
-"pushed": false
-}
-]
+"digest": []
 }
