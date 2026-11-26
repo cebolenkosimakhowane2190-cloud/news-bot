@@ -1,4 +1,4 @@
-import re, os, json, urllib.request
+import re, os, json, time, urllib.request
 import xml.etree.ElementTree as ET
 
 FEEDS = [
@@ -335,5 +335,20 @@ def main():
             print(f"Phone send failed ({type(e).__name__})")
     print(f"[{t:%H:%M}] Scanned {scanned} headlines, {failed} feeds failed, {len(S['digest'])} signals pending summary.")
 
+RUN_MINUTES = float(os.environ.get("RUN_MINUTES", "0") or 0)
+CHECK_EVERY = int(os.environ.get("CHECK_EVERY", "300") or 300)
+
+def run():
+    """Check now, then keep checking every CHECK_EVERY seconds for RUN_MINUTES."""
+    end = time.time() + RUN_MINUTES * 60
+    while True:
+        try:
+            main()
+        except Exception as e:
+            print(f"Check failed ({type(e).__name__}): {str(e)[:80]}")
+        if time.time() + CHECK_EVERY >= end:
+            break
+        time.sleep(CHECK_EVERY)
+
 if __name__ == "__main__":
-    main()
+    run()
