@@ -233,10 +233,21 @@
 "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
 "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
 "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
-"Asia FX: won muted after BOK hikes rates, dollar steady"
+"Asia FX: won muted after BOK hikes rates, dollar steady",
+"Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+"Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+"Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+"North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+"Beware higher correlation but nab high U.S. credit yields, fund managers say",
+"Is the stock market open for Thanksgiving? The answer might surprise you.",
+"Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
+"Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
+"U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+"Norse Atlantic suspends all flights, warns it may file for bankruptcy",
+"Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse"
 ],
 "last_push": {
-"GOLD|0": "2026-11-26T07:11:25.627936+02:00",
+"GOLD|0": "2026-11-26T09:52:49.367694+02:00",
 "GOLD|1": "2026-11-25T14:53:11.107498+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
 "USDJPY|1": "2026-11-25T16:22:37.152392+02:00",
@@ -249,5 +260,20 @@
 "2026-11-25-18",
 "2026-11-26-7"
 ],
-"digest": []
+"digest": [
+{
+"t": "2026-11-26T09:52:49.367694+02:00",
+"a": "GOLD",
+"net": -1,
+"h": "Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
+"pushed": true
+},
+{
+"t": "2026-11-26T09:52:49.367694+02:00",
+"a": "USDJPY",
+"net": 1,
+"h": "Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
+"pushed": false
+}
+]
 }
