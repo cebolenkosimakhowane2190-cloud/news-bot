@@ -280,11 +280,13 @@
 "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
 "Asia FX weakens as high oil prices weigh; dollar edges lower in holiday trade",
 "Is the stock market open on Black Friday?",
-"China’s factories are growing profits again, but the AI boom is picking the winners"
+"China’s factories are growing profits again, but the AI boom is picking the winners",
+"Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+"Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak"
 ],
 "last_push": {
 "GOLD|0": "2026-11-26T09:52:49.367694+02:00",
-"GOLD|1": "2026-11-25T14:53:11.107498+02:00",
+"GOLD|1": "2026-11-27T08:23:52.430791+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
 "USDJPY|1": "2026-11-25T16:22:37.152392+02:00",
 "NASDAQ|0": "2026-11-25T16:22:37.152392+02:00"
@@ -298,5 +300,20 @@
 "2026-11-26-18",
 "2026-11-27-7"
 ],
-"digest": []
+"digest": [
+{
+"t": "2026-11-27T08:23:52.430791+02:00",
+"a": "GOLD",
+"net": 1,
+"h": "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak",
+"pushed": true
+},
+{
+"t": "2026-11-27T08:23:52.430791+02:00",
+"a": "USDJPY",
+"net": -1,
+"h": "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak",
+"pushed": false
+}
+]
 }
