@@ -318,7 +318,12 @@
 "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
 "Top 10 things to watch in the stock market on Black Friday",
 "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
-"Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead"
+"Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
+"My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
+"Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+"'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
+"Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+"These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
 ],
 "last_push": {
 "GOLD|0": "2026-11-26T09:52:49.367694+02:00",
@@ -334,78 +339,8 @@
 "2026-11-25-18",
 "2026-11-26-7",
 "2026-11-26-18",
-"2026-11-27-7"
+"2026-11-27-7",
+"2026-11-27-18"
 ],
-"digest": [
-{
-"t": "2026-11-27T08:23:52.430791+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak",
-"pushed": true
-},
-{
-"t": "2026-11-27T08:23:52.430791+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak",
-"pushed": false
-},
-{
-"t": "2026-11-27T12:07:36.951113+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "Global bonds cap strong weekly rally after AI-driven flight to safety",
-"pushed": true
-},
-{
-"t": "2026-11-27T12:07:36.951113+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "Global bonds cap strong weekly rally after AI-driven flight to safety",
-"pushed": false
-},
-{
-"t": "2026-11-27T12:07:36.951113+02:00",
-"a": "NASDAQ",
-"net": -1,
-"h": "Global bonds cap strong weekly rally after AI-driven flight to safety",
-"pushed": false
-},
-{
-"t": "2026-11-27T12:51:37.555144+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Sterling today: Pound edges higher as risk rebound offsets Fed repricing",
-"pushed": false
-},
-{
-"t": "2026-11-27T13:06:38.621676+02:00",
-"a": "GOLD",
-"net": 0,
-"h": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-"pushed": false
-},
-{
-"t": "2026-11-27T15:16:33.558646+02:00",
-"a": "GOLD",
-"net": 1,
-"h": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-"pushed": true
-},
-{
-"t": "2026-11-27T15:16:33.558646+02:00",
-"a": "USDJPY",
-"net": -1,
-"h": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-"pushed": false
-},
-{
-"t": "2026-11-27T15:16:33.558646+02:00",
-"a": "NASDAQ",
-"net": -1,
-"h": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-"pushed": false
-}
-]
+"digest": []
 }
