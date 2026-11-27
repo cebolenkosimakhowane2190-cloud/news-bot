@@ -304,11 +304,20 @@
 "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
 "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
 "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-"Stocks look like a Black Friday bargain. Read the fine print."
+"Stocks look like a Black Friday bargain. Read the fine print.",
+"How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
+"SAP reportedly set to cut 10,000 jobs — the latest in a brutal year for tech layoffs",
+"U.S. Treasury yields tick up, snapping eight-day rally as bond bulls pause",
+"Spain’s election could pull Madrid closer to Trump’s Washington",
+"The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+"New car prices are at a record high. Here's where to look for deals",
+"It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+"Renters are now a national political constituency that can influence elections",
+"Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
 ],
 "last_push": {
 "GOLD|0": "2026-11-26T09:52:49.367694+02:00",
-"GOLD|1": "2026-11-27T12:07:36.951113+02:00",
+"GOLD|1": "2026-11-27T15:16:33.558646+02:00",
 "USDJPY|0": "2026-11-24T11:52:36.494617+02:00",
 "USDJPY|1": "2026-11-25T16:22:37.152392+02:00",
 "NASDAQ|0": "2026-11-25T16:22:37.152392+02:00"
@@ -370,6 +379,27 @@
 "a": "GOLD",
 "net": 0,
 "h": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+"pushed": false
+},
+{
+"t": "2026-11-27T15:16:33.558646+02:00",
+"a": "GOLD",
+"net": 1,
+"h": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+"pushed": true
+},
+{
+"t": "2026-11-27T15:16:33.558646+02:00",
+"a": "USDJPY",
+"net": -1,
+"h": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+"pushed": false
+},
+{
+"t": "2026-11-27T15:16:33.558646+02:00",
+"a": "NASDAQ",
+"net": -1,
+"h": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
 "pushed": false
 }
 ]
